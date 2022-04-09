@@ -45,7 +45,7 @@ class _PantallaConfRestState extends State<PantallaConfRest> {
   bool _isLoading = false;
   bool patchImgs = false;
   List<Uint8List> _images = [];
-  String googleApikey = "AIzaSyDXZHR0-Zws0Q_hKSgoq2pYuYhZwir-S0M";
+  String googleApikey = "YOU GOOGLE API KEY";
   String location = "Search Location";
   double? lat;
   double? long;
