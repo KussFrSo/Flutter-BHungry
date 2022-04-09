@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904201228303",
+    "project_id": "bhungrysds",
+    "storage_bucket": "bhungrysds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904201228303:android:9d6d121805b590ae44137a",
+        "android_client_info": {
+          "package_name": "com.example.bhungry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904201228303-3k7te95hdkprjlk5p7o3spl7ocojj2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRJkTr0fSo1B_rVwi1BoxycUjO3PpFv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904201228303-3k7te95hdkprjlk5p7o3spl7ocojj2ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
